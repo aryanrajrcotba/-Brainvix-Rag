@@ -182,18 +182,3 @@ OpenAI API calls are made for each content generation. Monitor your usage to avo
 - Review Supabase dashboard for database issues
 - Monitor OpenAI API usage limits
 
-## Contributing
-
-This is a learning project. Feel free to fork and customize for your needs!
-
-## License
-
-MIT License - feel free to use this project for learning and development.
-
-## Support
-
-For issues or questions, please check the code comments and documentation within the files.
-
----
-
-Built with ❤️ using React, Supabase, and OpenAI
